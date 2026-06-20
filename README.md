@@ -11,8 +11,7 @@ The objective was to transform raw sales data into actionable business insights 
 
 Business Problem
 
-Stakeholders needed answers to the following questions:[Solutions_SALES-insights.sql](https://github.com/user-attachments/files/29160779/Solutions_SALES-insights.sql)
-
+Stakeholders needed answers to the following questions:
 
 1. Is the business growing or declining over time?
 2. Which markets generate the highest revenue?
@@ -289,6 +288,11 @@ The dashboard converts raw transactional data into actionable business insights,
 
 
 <img width="1470" height="744" alt="Screenshot 2026-06-20 at 5 47 22 PM" src="https://github.com/user-attachments/assets/ab1974d9-40cc-4189-a39e-75228c32cefa" />
+
+
+
+
+
 
 Solutions in SQL
 
