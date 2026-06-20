@@ -297,8 +297,6 @@ The dashboard converts raw transactional data into actionable business insights,
 Solutions in SQL
 
 
-
-
 USE  sales;
 
 SELECT COUNT(*) FROM transactions;
@@ -558,3 +556,5 @@ ORDER BY revenue DESC;
 
 
 -- END OF PROJECT 
+
+[Solutions_SALES-insights.sql](https://github.com/user-attachments/files/29160848/Solutions_SALES-insights.sql)
